@@ -8,9 +8,9 @@ https://www.linkedin.com/in/mayank-jain-731325148/
 General purpose code for baseball data analysis.
 
 #### How to use
-##### User can Analyse their own data by :-
-  ##### Changing baseballdatainfo dictionary present in test_baseball_statistics.
-    baseballdatainfo contains :-
+  User can Analyse their own data by :-
+  Changing baseballdatainfo dictionary present in test_baseball_statistics.
+   #### baseballdatainfo contains :-
       "masterfile": the name of the master CSV file that includes columns with player IDs and names.
       "battingfile": the name of the CSV file that includes columns with player IDs and batting data.
       "separator": the delimiter character used in the two CSV files.
