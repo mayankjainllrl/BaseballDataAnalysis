@@ -8,9 +8,9 @@ https://www.linkedin.com/in/mayank-jain-731325148/
 General purpose code for baseball data analysis.
 
 #### How to use
-User can Analyse their own data by :-
-  Changing baseballdatainfo dictionary present in test_baseball_statistics.
-    baseballdatainfo contains :-
+##### User can Analyse their own data by :-
+  ##### Changing baseballdatainfo dictionary present in test_baseball_statistics.
+    ##### baseballdatainfo contains :-
       "masterfile": the name of the master CSV file that includes columns with player IDs and names.
       "battingfile": the name of the CSV file that includes columns with player IDs and batting data.
       "separator": the delimiter character used in the two CSV files.
@@ -27,7 +27,7 @@ User can Analyse their own data by :-
       "walks": the name of the column header for walks data in the batting CSV file.
       "battingfields": a list of column header names that correspond to batting data in the batting CSV file.
     Change this values as per the requirements of your own data.
-  I have provided with three functions in this code which are :-
+  ##### I have provided with three functions in this code which are :-
     1. batting_average
     2. slugging_percentage
     3. onbase_percentage
